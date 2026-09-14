@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+venv*/
+
+# Secrets & local config
+.env
+config.json
+
+# Local data & outputs
+*.db
+*.pdf
+output/
+bin/
+*.exe
+*.mp4
+*.mp3
+*.wav
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

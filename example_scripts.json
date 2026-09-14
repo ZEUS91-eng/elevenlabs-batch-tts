@@ -1,0 +1,7 @@
+{
+  "scripts": [
+    { "id": "intro", "text": "Welcome to the channel. Today we are looking at three simple productivity habits." },
+    { "id": "habit_1", "text": "Habit one: plan tomorrow before you close your laptop today." },
+    { "id": "outro", "text": "Thanks for watching. Subscribe for more short, useful tips." }
+  ]
+}
