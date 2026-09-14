@@ -2,6 +2,8 @@
 
 A small desktop tool that converts a whole **JSON file of scripts into MP3 voiceovers** in one run, using the [ElevenLabs](https://elevenlabs.io) text-to-speech API. It's useful for content pipelines, e-learning modules, ad variations or anything else that needs many voice clips.
 
+![ElevenLabs Batch TTS window](screenshot.png)
+
 ## Features
 
 - Batch-converts any number of scripts from a single JSON file
